@@ -26,7 +26,7 @@ Research Experiences
    
 Publications
 ======
-1. **Approximate Gibbsian structure in strongly correlated point fields and generalized Gaussian zero ensembles**, *with S. Ghosh, U. Gangopadhyay* <ins>Communications in Pure Appl. Math. (CPAM),<ins> to appear
+1. **Approximate Gibbsian structure in strongly correlated point fields and generalized Gaussian zero ensembles**, *with S. Ghosh, U. Gangopadhyay* <ins>Communications in Pure Appl. Math. (CPAM),<ins> to appear <br>
    [preprint](https://arxiv.org/abs/2211.01940)
 
 
