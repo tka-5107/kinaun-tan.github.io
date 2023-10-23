@@ -85,8 +85,8 @@ author:
   bio              : "3rd Year PhD Student"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "kinaun.tan@u.nus.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
