@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kin Aun Tan"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "3rd Year PhD Student"
   location         : "Singapore"
   employer         : "National University of Singapore"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
