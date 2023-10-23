@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : &name
+  name             : 
   avatar           : "profile.png"
   bio              : "3rd Year PhD Student"
   location         : "Singapore"
