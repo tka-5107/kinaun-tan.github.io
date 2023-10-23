@@ -15,16 +15,16 @@ I am a third year PhD student at National University of Singapore (NUS), Departm
 
 Research Experiences 
 ======
-1. National University of Singapore (May 2023 ~ present)
+1. National University of Singapore (May 2023 ~ present) <br>
   Topological Data Analysis. Applying Persistent Holomogy into signal processing including detection and denoising. 
 
-2. National University of Singapore (April 2023 ~ present)
+2. National University of Singapore (April 2023 ~ present) <br>
    Learning conjugation invariant class functions on rotated images via machine learning.
 
-3. National University of Singapore (December 2022 ~ May 2023)
+3. National University of Singapore (December 2022 ~ May 2023) <br>
    Connecting approximate Gibbsian properties to generalized Gibbsian properties. Refer to the publication.
 
-4. National University of Singapore (2022)
+4. National University of Singapore (2022) <br>
    Attempted to extend Wainwright's work on edge recovery in high dimensional Ising model using $$l_1$$-regularized logistic regression onto more general Potts model.
    
 Publications
