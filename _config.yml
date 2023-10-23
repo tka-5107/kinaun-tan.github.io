@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kin Aun's Homepage"
+title                    : "Kin Aun Tan's Homepage"
 title_separator          : "-"
 name                     : &name "Kin Aun Tan"
 description              : &description "personal description"
 url                      : https://kinaun-tan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tka-5107/kinaun-tan.github.io"
+repository               : "tka5107/kinaun-tan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "KinAun Tan"
+  name             : "Kin Aun Tan"
   avatar           : "profile.png"
   bio              : "3rd Year PhD Student"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  pubmed           : 
-  googlescholar    : 
-  email            : "kinaun.tan@u.nus.edu" "tankinaun_1234@hotmail.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "kinaun.tan@u.nus.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
